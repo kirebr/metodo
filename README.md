@@ -1,2 +1,6 @@
 # metodo
-Grupo 4 - Metedos e Ferramentas UFG 2020
+Grupo 6 - Métodos e Ferramentas UFG 2020 - Professor: Altino
+
+Integrantes: MARCOS MATHIAS PEREIRA / AUGUSTO CESAR DA FONSECA FALCAO / RAFAEL CAMPOS DE SOUZA REIS / ERIK RAPHAEL RIBEIRO DA COSTA
+
+Tema: A decidir
